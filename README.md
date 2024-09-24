@@ -1,3 +1,3 @@
 # ProfileCard
 <br>
-Author -> Rajat Kadam
+Author -> Rajat Kadam (Rk)
